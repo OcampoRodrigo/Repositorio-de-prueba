@@ -1,7 +1,5 @@
 print("hola")
 print("modificacion")
-
-print("modificacion2")
-print("modificacion2")
+print("2+2-4")
 print("modificacion2")
 
